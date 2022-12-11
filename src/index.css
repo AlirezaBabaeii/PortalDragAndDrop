@@ -1,0 +1,22 @@
+
+html {
+  background-color: #FCFCFC;
+  font-family: -apple-system, BlinkMacSystemFont, San Francisco, Roboto, Segoe UI, Helvetica, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  direction: ltr;
+}
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  position: relative;
+  min-height: 100vh;
+  outline: none;
+  background: linear-gradient( 0deg, rgba(190, 194, 255, 0.08), rgba(190, 194, 255, 0.08) ), #1b1b1f;
+
+}
+.wrapperspectram{
+  background-color: white !important;
+}
